@@ -1,0 +1,106 @@
+.container{
+    background-color: rgb(25, 43, 75);
+    border: 1px solid;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nft{
+    width: 250px;
+    height: 400px;
+    background-color:rgb(31, 51, 85);
+    border: 1px solid #0000;
+    border-radius: 10px;
+}
+
+.nft1 img{
+    width: 200px;
+    height: 200px;
+    margin: 25px 25px 0 25px;
+    
+    
+}
+.nft h1{
+    font-size:medium;
+    margin: 5px 25px 0 25px;
+    color:#ffff;
+    
+}
+
+.nft p{
+    font-size: small;
+    margin: 10px 25px 0 25px;
+    color:rgb(110, 103, 103);
+
+}
+
+.nft-p img{
+    width: 10px;
+    height: 10px;
+    margin: 15px 0 0 25px;
+    
+}
+
+#eth{
+    height: 15px;
+}
+
+
+
+.tyme{
+    margin: 15px 0 0 20px;
+}
+
+span{
+    font-size: small;
+    color: aqua;
+
+}
+
+#days{
+color: rgb(110, 103, 103);
+
+}
+
+hr{
+    margin: 15px 25px 0px 25px;
+    border: 1px solid rgb(110, 103, 103);
+    background-color: rgb(110, 103, 103);
+    
+    
+
+}
+
+#pics{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin: 5px 10px 15px 25px;
+
+    
+    
+}
+
+
+.profile{
+    display: flex;
+    align-items: center;
+    
+
+    
+    
+    
+}
+
+
+h5{
+    margin-top: 15px;
+    margin-left: 10px;
+    color: rgb(110, 103, 103);
+}
+
+
+
+
